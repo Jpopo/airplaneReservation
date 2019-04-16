@@ -10,6 +10,8 @@ public class firstClassTicket extends businessClassTicket {
 	
 	// what else can we add here??
 	// need ideas...
+	//Ideas: Drinks/Free Checked bags/access to movies/shows etc. /More flight points for first class (Like FC get x3 points,
+	//business would get x2, and coach would get x1)
 	
 	public firstClassTicket(double price, int ticketNumber, String origin, String destination, String customerID,
 			boolean roundTrip, Date departureDate, Time departureTime, Date arrivalDate, Time arrivalTime,
